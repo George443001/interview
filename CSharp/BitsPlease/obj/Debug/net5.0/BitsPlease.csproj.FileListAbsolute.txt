@@ -1,0 +1,16 @@
+E:\source\repos\BitsPlease\bin\Debug\net5.0\BitsPlease.exe
+E:\source\repos\BitsPlease\bin\Debug\net5.0\BitsPlease.deps.json
+E:\source\repos\BitsPlease\bin\Debug\net5.0\BitsPlease.runtimeconfig.json
+E:\source\repos\BitsPlease\bin\Debug\net5.0\BitsPlease.runtimeconfig.dev.json
+E:\source\repos\BitsPlease\bin\Debug\net5.0\BitsPlease.dll
+E:\source\repos\BitsPlease\bin\Debug\net5.0\ref\BitsPlease.dll
+E:\source\repos\BitsPlease\bin\Debug\net5.0\BitsPlease.pdb
+E:\source\repos\BitsPlease\obj\Debug\net5.0\BitsPlease.csproj.AssemblyReference.cache
+E:\source\repos\BitsPlease\obj\Debug\net5.0\BitsPlease.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\repos\BitsPlease\obj\Debug\net5.0\BitsPlease.AssemblyInfoInputs.cache
+E:\source\repos\BitsPlease\obj\Debug\net5.0\BitsPlease.AssemblyInfo.cs
+E:\source\repos\BitsPlease\obj\Debug\net5.0\BitsPlease.csproj.CoreCompileInputs.cache
+E:\source\repos\BitsPlease\obj\Debug\net5.0\BitsPlease.dll
+E:\source\repos\BitsPlease\obj\Debug\net5.0\ref\BitsPlease.dll
+E:\source\repos\BitsPlease\obj\Debug\net5.0\BitsPlease.pdb
+E:\source\repos\BitsPlease\obj\Debug\net5.0\BitsPlease.genruntimeconfig.cache
