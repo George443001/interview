@@ -1,0 +1,16 @@
+E:\source\repos\textplay\bin\Debug\net5.0\textplay.exe
+E:\source\repos\textplay\bin\Debug\net5.0\textplay.deps.json
+E:\source\repos\textplay\bin\Debug\net5.0\textplay.runtimeconfig.json
+E:\source\repos\textplay\bin\Debug\net5.0\textplay.runtimeconfig.dev.json
+E:\source\repos\textplay\bin\Debug\net5.0\textplay.dll
+E:\source\repos\textplay\bin\Debug\net5.0\ref\textplay.dll
+E:\source\repos\textplay\bin\Debug\net5.0\textplay.pdb
+E:\source\repos\textplay\obj\Debug\net5.0\textplay.csproj.AssemblyReference.cache
+E:\source\repos\textplay\obj\Debug\net5.0\textplay.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\repos\textplay\obj\Debug\net5.0\textplay.AssemblyInfoInputs.cache
+E:\source\repos\textplay\obj\Debug\net5.0\textplay.AssemblyInfo.cs
+E:\source\repos\textplay\obj\Debug\net5.0\textplay.csproj.CoreCompileInputs.cache
+E:\source\repos\textplay\obj\Debug\net5.0\textplay.dll
+E:\source\repos\textplay\obj\Debug\net5.0\ref\textplay.dll
+E:\source\repos\textplay\obj\Debug\net5.0\textplay.pdb
+E:\source\repos\textplay\obj\Debug\net5.0\textplay.genruntimeconfig.cache

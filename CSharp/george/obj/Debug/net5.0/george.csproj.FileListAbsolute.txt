@@ -1,0 +1,16 @@
+E:\source\repos\george\bin\Debug\net5.0\george.exe
+E:\source\repos\george\bin\Debug\net5.0\george.deps.json
+E:\source\repos\george\bin\Debug\net5.0\george.runtimeconfig.json
+E:\source\repos\george\bin\Debug\net5.0\george.runtimeconfig.dev.json
+E:\source\repos\george\bin\Debug\net5.0\george.dll
+E:\source\repos\george\bin\Debug\net5.0\ref\george.dll
+E:\source\repos\george\bin\Debug\net5.0\george.pdb
+E:\source\repos\george\obj\Debug\net5.0\george.csproj.AssemblyReference.cache
+E:\source\repos\george\obj\Debug\net5.0\george.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\repos\george\obj\Debug\net5.0\george.AssemblyInfoInputs.cache
+E:\source\repos\george\obj\Debug\net5.0\george.AssemblyInfo.cs
+E:\source\repos\george\obj\Debug\net5.0\george.csproj.CoreCompileInputs.cache
+E:\source\repos\george\obj\Debug\net5.0\george.dll
+E:\source\repos\george\obj\Debug\net5.0\ref\george.dll
+E:\source\repos\george\obj\Debug\net5.0\george.pdb
+E:\source\repos\george\obj\Debug\net5.0\george.genruntimeconfig.cache
