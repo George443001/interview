@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FHsmY9iWogNPIUGDJZNrsWY6ObzXjQIanJPqV8B1gAwqSWqjoVBWmpt1SxPA2lOQk2NHMvlhfbXhdgcRLm3pfg==",
+  "dgSpecHash": "VjvFJRl4rWvHusAF4+JbWWELrKt09lPiV2XfQzgSoxqtW3z/cmvWMRD1uuIx93WhPSqJCibMsTLlQSgdKjBzQA==",
   "success": true,
-  "projectFilePath": "E:\\source\\repos\\george\\george.csproj",
+  "projectFilePath": "D:\\repo\\interview\\CSharp\\george\\george.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

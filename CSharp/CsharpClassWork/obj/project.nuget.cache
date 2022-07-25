@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "KZA23LtsTdhF0DtK8faGG+OlqC+fKD+OWzVhiull5UEayWV+5SjeUBKw/xnXkOk+hiqMIRHWfT6nLbIQ468DIQ==",
+  "dgSpecHash": "wJtk7ICu88UPMSpyyApQF3tY+lUdBDv7iiEOnFmYW0gKTRHNdfY1hwODrF0yRA9LUqQLgbOrgxEKUWF45KOX1Q==",
   "success": true,
-  "projectFilePath": "E:\\repo\\interview\\CSharp\\CsharpClassWork\\CsharpClassWork.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\repo\\interview\\CSharp\\CsharpClassWork\\CsharpClassWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\georg\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.powershell.native\\7.2.0\\microsoft.powershell.native.7.2.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\moq\\4.18.1\\moq.4.18.1.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\pester\\5.3.3\\pester.5.3.3.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
   "logs": []
 }

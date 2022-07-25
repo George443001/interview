@@ -1,0 +1,15 @@
+D:\repo\interview\CSharp\CsharpClassWork.unitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\repo\interview\CSharp\CsharpClassWork.unitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\repo\interview\CSharp\CsharpClassWork.unitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\repo\interview\CSharp\CsharpClassWork.unitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\repo\interview\CSharp\CsharpClassWork.unitTest\bin\Debug\CsharpClassWork.unitTest.dll
+D:\repo\interview\CSharp\CsharpClassWork.unitTest\bin\Debug\CsharpClassWork.unitTest.pdb
+D:\repo\interview\CSharp\CsharpClassWork.unitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\repo\interview\CSharp\CsharpClassWork.unitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\repo\interview\CSharp\CsharpClassWork.unitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\repo\interview\CSharp\CsharpClassWork.unitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\repo\interview\CSharp\CsharpClassWork.unitTest\obj\Debug\CsharpClassWork.unitTest.csproj.AssemblyReference.cache
+D:\repo\interview\CSharp\CsharpClassWork.unitTest\obj\Debug\CsharpClassWork.unitTest.csproj.CoreCompileInputs.cache
+D:\repo\interview\CSharp\CsharpClassWork.unitTest\obj\Debug\CsharpClassWork.unitTest.csproj.CopyComplete
+D:\repo\interview\CSharp\CsharpClassWork.unitTest\obj\Debug\CsharpClassWork.unitTest.dll
+D:\repo\interview\CSharp\CsharpClassWork.unitTest\obj\Debug\CsharpClassWork.unitTest.pdb
